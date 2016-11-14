@@ -93,3 +93,4 @@ Vim statusline
 The font in the screenshots is `Pragmata Pro`_ by Fabrizio Schiavi.
 
 .. _`Pragmata Pro`: http://www.fsd.it/shop/fonts/pragmatapro
+
